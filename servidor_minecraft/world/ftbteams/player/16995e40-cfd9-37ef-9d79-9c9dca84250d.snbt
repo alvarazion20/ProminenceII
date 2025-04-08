@@ -1,0 +1,17 @@
+{
+	id: "16995e40-cfd9-37ef-9d79-9c9dca84250d"
+	type: "player"
+	player_name: "qwilzy17"
+	ranks: {
+		16995e40-cfd9-37ef-9d79-9c9dca84250d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "qwilzy17"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59C6"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
