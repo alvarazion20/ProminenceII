@@ -2811,3 +2811,14 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	... 29 more
 [00:37:03] [Server thread/INFO]: <qwilzy17> mano falaa
 [00:38:30] [Server thread/INFO]: qwilzy17 has made the advancement [False Water]
+[00:38:56] [pool-12-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:large/village_underground]] from pos class_2338{x=357, y=83, z=-507}
+[00:39:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2537ms or 50 ticks behind
+[00:40:39] [Server thread/INFO]: qwilzy17 has made the advancement [Suit Up]
+[00:40:53] [Server thread/INFO]: casaleiro has made the advancement [Archer´s Paths]
+[00:41:17] [Server thread/INFO]: casaleiro has made the advancement [Stone Age]
+[00:43:36] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=80, y=68, z=-613}
+[00:43:36] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=80, y=68, z=-613}
+[00:44:17] [pool-12-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:small/village_underground], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain]] from pos class_2338{x=11, y=80, z=-501}
+[00:44:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2944ms or 58 ticks behind
+[00:45:22] [Server thread/INFO]: qwilzy17 has made the advancement [Refined Iron]
+[00:47:36] [Server thread/INFO]: qwilzy17 has made the advancement [Hanging Tree]
