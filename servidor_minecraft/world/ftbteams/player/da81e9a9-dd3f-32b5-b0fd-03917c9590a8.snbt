@@ -1,0 +1,17 @@
+{
+	id: "da81e9a9-dd3f-32b5-b0fd-03917c9590a8"
+	type: "player"
+	player_name: "casaleiro"
+	ranks: {
+		da81e9a9-dd3f-32b5-b0fd-03917c9590a8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "casaleiro"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9D59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
