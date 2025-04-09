@@ -581,6 +581,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2025-04-09 00:39:14 +0000",
+      "pine_taiga": "2025-04-09 18:22:45 +0000",
       "muddy_river": "2025-04-09 17:53:18 +0000",
       "blackwood_taiga": "2025-04-08 19:17:28 +0000",
       "rocky_meadow": "2025-04-09 17:44:43 +0000",
@@ -597,6 +598,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2025-04-09 00:39:14 +0000",
+      "pine_taiga": "2025-04-09 18:22:45 +0000",
       "muddy_river": "2025-04-09 17:53:18 +0000",
       "blackwood_taiga": "2025-04-08 19:17:28 +0000",
       "rocky_meadow": "2025-04-09 17:44:43 +0000",
@@ -2513,10 +2515,12 @@
       "minecraft:old_growth_pine_taiga": "2025-04-09 14:08:39 +0000",
       "minecraft:taiga": "2025-04-09 00:31:26 +0000",
       "minecraft:beach": "2025-04-09 00:34:40 +0000",
+      "minecraft:dark_forest": "2025-04-09 18:23:27 +0000",
       "minecraft:river": "2025-04-08 23:16:33 +0000",
       "minecraft:cold_ocean": "2025-04-09 17:53:41 +0000",
       "minecraft:forest": "2025-04-09 00:33:25 +0000",
       "minecraft:lush_caves": "2025-04-09 14:11:47 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-09 18:23:18 +0000",
       "minecraft:meadow": "2025-04-09 00:28:26 +0000",
       "minecraft:plains": "2025-04-09 17:45:13 +0000"
     },
@@ -12290,6 +12294,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core_soul": {
     "criteria": {
       "has_core_specification_item": "2025-04-09 18:13:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-04-09 18:21:39 +0000"
     },
     "done": true
   },
