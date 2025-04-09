@@ -12081,6 +12081,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/computer_advanced": {
+    "criteria": {
+      "has_components": "2025-04-09 18:12:15 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/caramel_from_sugar": {
     "criteria": {
       "has_sugar": "2025-04-09 18:06:21 +0000"
@@ -12090,6 +12096,12 @@
   "mcdw:recipes/bows/bow_shivering_bow": {
     "criteria": {
       "has_blue_ice": "2025-04-09 18:07:04 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_boots": {
+    "criteria": {
+      "has_fur": "2025-04-09 18:16:02 +0000"
     },
     "done": true
   },
@@ -12112,9 +12124,33 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_soul_sand": "2025-04-09 18:13:20 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_helmet": {
+    "criteria": {
+      "has_soul_sand": "2025-04-09 18:13:20 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_sand": "2025-04-09 18:13:20 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/kill_iceologer": {
     "criteria": {
       "killed_iceologer": "2025-04-09 18:07:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_leggings": {
+    "criteria": {
+      "has_soul_sand": "2025-04-09 18:13:20 +0000"
     },
     "done": true
   },
@@ -12124,9 +12160,39 @@
     },
     "done": true
   },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_sand": "2025-04-09 18:13:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-04-09 18:13:20 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_caramel": {
     "criteria": {
       "has_sugar": "2025-04-09 18:06:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-09 18:13:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-04-09 18:13:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-04-09 18:13:20 +0000"
     },
     "done": true
   },
@@ -12136,9 +12202,27 @@
     },
     "done": true
   },
+  "frostiful:recipes/combat/armor/fur_leggings": {
+    "criteria": {
+      "has_fur": "2025-04-09 18:16:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-04-09 18:06:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-04-09 18:13:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-04-09 18:13:20 +0000"
     },
     "done": true
   },
@@ -12149,9 +12233,21 @@
     },
     "done": false
   },
+  "frostiful:recipes/combat/armor/fur_helmet": {
+    "criteria": {
+      "has_fur": "2025-04-09 18:16:02 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
     "criteria": {
       "has_blue_ice": "2025-04-09 18:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-09 18:09:01 +0000"
     },
     "done": true
   },
@@ -12161,9 +12257,39 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/soul_robe_boots": {
+    "criteria": {
+      "has_soul_sand": "2025-04-09 18:13:20 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2025-04-09 18:13:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_crossbow": {
+    "criteria": {
+      "has_crossbow": "2025-04-09 18:08:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-04-09 18:06:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-04-09 18:13:20 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_soul": {
+    "criteria": {
+      "has_core_specification_item": "2025-04-09 18:13:20 +0000"
     },
     "done": true
   },
@@ -12191,9 +12317,21 @@
     },
     "done": true
   },
+  "frostiful:recipes/combat/armor/fur_chestplate": {
+    "criteria": {
+      "has_fur": "2025-04-09 18:16:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweet_berry_jelly_potion": {
     "criteria": {
       "has_sugar": "2025-04-09 18:06:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-09 18:13:20 +0000"
     },
     "done": true
   },
@@ -12203,15 +12341,39 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-04-09 18:13:20 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/cut_blue_ice": {
     "criteria": {
       "has_blue_ice": "2025-04-09 18:07:04 +0000"
     },
     "done": true
   },
+  "more_rpg_content:bow_way": {
+    "criteria": {
+      "items": "2025-04-09 18:08:20 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/caramel_from_smoking_sugar": {
     "criteria": {
       "has_sugar": "2025-04-09 18:06:21 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_chestplate": {
+    "criteria": {
+      "has_soul_sand": "2025-04-09 18:13:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-04-09 18:15:23 +0000"
     },
     "done": true
   },
@@ -12224,6 +12386,12 @@
   "betterend:recipes/misc/cave_pumpkin_pie": {
     "criteria": {
       "has_sugar": "2025-04-09 18:06:21 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/fur_padding": {
+    "criteria": {
+      "has_fur": "2025-04-09 18:16:02 +0000"
     },
     "done": true
   },
