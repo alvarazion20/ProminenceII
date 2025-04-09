@@ -582,6 +582,7 @@
     "criteria": {
       "silver_birch_forest": "2025-04-09 00:39:14 +0000",
       "blackwood_taiga": "2025-04-08 19:17:28 +0000",
+      "rocky_meadow": "2025-04-09 17:44:43 +0000",
       "highland_fields": "2025-04-09 00:28:18 +0000",
       "maple_forest": "2025-04-09 00:33:45 +0000",
       "boreal_forest": "2025-04-09 00:31:27 +0000",
@@ -595,6 +596,7 @@
     "criteria": {
       "silver_birch_forest": "2025-04-09 00:39:14 +0000",
       "blackwood_taiga": "2025-04-08 19:17:28 +0000",
+      "rocky_meadow": "2025-04-09 17:44:43 +0000",
       "highland_fields": "2025-04-09 00:28:18 +0000",
       "maple_forest": "2025-04-09 00:33:45 +0000",
       "boreal_forest": "2025-04-09 00:31:27 +0000",
@@ -2510,7 +2512,8 @@
       "minecraft:river": "2025-04-08 23:16:33 +0000",
       "minecraft:forest": "2025-04-09 00:33:25 +0000",
       "minecraft:lush_caves": "2025-04-09 14:11:47 +0000",
-      "minecraft:meadow": "2025-04-09 00:28:26 +0000"
+      "minecraft:meadow": "2025-04-09 00:28:26 +0000",
+      "minecraft:plains": "2025-04-09 17:45:13 +0000"
     },
     "done": false
   },
@@ -2678,6 +2681,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-09 17:47:28 +0000",
       "minecraft:skeleton": "2025-04-09 14:21:56 +0000",
       "minecraft:vindicator": "2025-04-09 14:42:54 +0000",
       "minecraft:spider": "2025-04-09 14:29:36 +0000",
@@ -11587,9 +11591,84 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-09 17:42:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-09 17:43:26 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-04-09 17:43:26 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_archer": {
     "criteria": {
       "has_core_specification_item": "2025-04-09 17:32:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-09 17:42:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-04-09 17:42:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-04-09 17:43:00 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-09 17:42:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-04-09 17:42:51 +0000",
+      "silicon": "2025-04-09 17:42:51 +0000",
+      "engineering": "2025-04-09 17:42:51 +0000",
+      "logic": "2025-04-09 17:42:51 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-04-09 17:45:13 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-09 17:43:26 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-09 17:43:26 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-09 17:43:26 +0000"
     },
     "done": true
   },
@@ -11599,15 +11678,111 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-09 17:42:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-09 17:42:38 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/fermentation_barrel": {
     "criteria": {
       "has_barrel": "2025-04-09 17:34:46 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-09 17:47:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-04-09 17:43:00 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-09 17:42:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-09 17:43:26 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-04-09 17:46:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-04-09 17:43:00 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-09 17:42:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_dusts/quartz": "2025-04-09 17:43:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-04-09 17:50:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
+    "criteria": {
+      "has_quartz_block": "2025-04-09 17:43:26 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-09 17:42:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-09 17:43:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
     "criteria": {
       "has_barrel": "2025-04-09 17:34:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_banner": {
+    "criteria": {
+      "has_banner": "2025-04-09 17:47:31 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-04-09 17:43:00 +0000"
     },
     "done": true
   },
@@ -11620,6 +11795,18 @@
   "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2025-04-09 17:34:46 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-04-09 17:43:26 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-09 17:42:38 +0000"
     },
     "done": true
   },
