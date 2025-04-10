@@ -3985,3 +3985,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	... 29 more
 [01:41:40] [Server thread/INFO]: Villager class_1646['Tamatha'/23269, l='ServerLevel[world]', x=-415.70, y=8.00, z=-581.69] died, message: 'Tamatha hit the ground too hard'
 [01:41:40] [Server thread/INFO]: Named entity class_1646['Tamatha'/23269, l='ServerLevel[world]', x=-415.70, y=8.00, z=-581.69] died: Tamatha fell from a high place
+[01:53:59] [Server thread/INFO]: qwilzy17 has made the advancement [The Andesite Age]
