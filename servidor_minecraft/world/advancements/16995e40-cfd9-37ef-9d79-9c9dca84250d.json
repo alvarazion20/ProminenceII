@@ -2708,10 +2708,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-09 17:47:28 +0000",
+      "minecraft:blaze": "2025-04-10 22:10:56 +0000",
       "minecraft:skeleton": "2025-04-09 14:21:56 +0000",
       "minecraft:ravager": "2025-04-09 17:59:52 +0000",
       "minecraft:vindicator": "2025-04-09 14:42:54 +0000",
+      "minecraft:magma_cube": "2025-04-10 22:08:58 +0000",
       "minecraft:spider": "2025-04-09 14:29:36 +0000",
+      "minecraft:piglin_brute": "2025-04-10 22:13:10 +0000",
       "minecraft:creeper": "2025-04-09 14:19:23 +0000",
       "minecraft:witch": "2025-04-09 17:59:57 +0000",
       "minecraft:wither_skeleton": "2025-04-10 21:25:51 +0000",
@@ -4582,6 +4585,7 @@
       "apple": "2025-04-09 00:16:36 +0000",
       "mutton": "2025-04-09 00:16:30 +0000",
       "bread": "2025-04-09 00:24:55 +0000",
+      "golden_apple": "2025-04-10 22:10:59 +0000",
       "salmon": "2025-04-09 00:34:54 +0000",
       "mushroom_stew": "2025-04-09 14:50:02 +0000",
       "cooked_salmon": "2025-04-10 19:32:40 +0000"
@@ -14211,6 +14215,8 @@
       "betternether:poor_nether_grasslands": "2025-04-10 22:04:02 +0000",
       "betternether:nether_grasslands": "2025-04-10 22:03:43 +0000",
       "betternether:old_fungiwoods": "2025-04-10 21:26:34 +0000",
+      "betternether:old_swampland": "2025-04-10 22:08:17 +0000",
+      "betternether:nether_swampland": "2025-04-10 22:09:03 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-04-10 21:22:18 +0000",
       "betternether:nether_mushroom_forest": "2025-04-10 21:22:21 +0000",
       "betternether:nether_swampland_terraces": "2025-04-10 22:01:55 +0000"
@@ -14253,9 +14259,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/implosion_compressor": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-04-10 22:12:36 +0000"
+    },
+    "done": true
+  },
   "simplyswords:hearthflame": {
     "criteria": {
       "requirement": "2025-04-10 19:53:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/invar_dust": {
+    "criteria": {
+      "has_tag_c_invar_ingots": "2025-04-10 22:12:43 +0000"
     },
     "done": true
   },
@@ -14334,6 +14352,12 @@
   "minecells:promenade": {
     "criteria": {
       "requirement": "2025-04-10 19:44:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_axe": {
+    "criteria": {
+      "has_golden_axe": "2025-04-10 22:14:26 +0000"
     },
     "done": true
   },
@@ -14595,6 +14619,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/invar_nugget": {
+    "criteria": {
+      "has_invar_ingot": "2025-04-10 22:12:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_plate_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-10 18:34:21 +0000"
@@ -14658,6 +14688,18 @@
   "supplementaries:recipes/statue": {
     "criteria": {
       "has_smooth_stone_slab": "2025-04-10 19:14:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_brown_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_brown": "2025-04-10 22:08:51 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/music_disc_tanker_on_the_levantines": {
+    "criteria": {
+      "has_necessary_ingredients": "2025-04-10 22:12:38 +0000"
     },
     "done": true
   },
@@ -14769,6 +14811,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-04-10 22:12:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/white_dye_from_bone_meal": {
     "criteria": {
       "has_bone_meal": "2025-04-10 21:18:07 +0000"
@@ -14860,6 +14908,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-04-10 22:12:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-04-10 21:29:11 +0000"
@@ -14875,6 +14929,12 @@
   "handcrafted:recipes/misc/pillager_trophy": {
     "criteria": {
       "has_pillager_trophy": "2025-04-10 18:34:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/greenhouse_controller": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-04-10 22:12:36 +0000"
     },
     "done": true
   },
@@ -14974,6 +15034,12 @@
     },
     "done": true
   },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-10 22:10:59 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/calcite/polished_calcite": {
     "criteria": {
       "has_item": "2025-04-10 19:12:45 +0000"
@@ -15034,6 +15100,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/industrial_sawmill": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-04-10 22:12:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-04-10 21:29:13 +0000"
@@ -15061,6 +15133,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-10 21:21:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/invar_plate": {
+    "criteria": {
+      "has_tag_c_invar_ingots": "2025-04-10 22:12:43 +0000"
     },
     "done": true
   },
@@ -15100,6 +15178,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-10 22:10:59 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bloodstone/bloodstone": {
     "criteria": {
       "has_item": "2025-04-10 21:29:56 +0000"
@@ -15130,9 +15214,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/invar_storage_block": {
+    "criteria": {
+      "has_invar_ingot": "2025-04-10 22:12:43 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stonecutting/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-04-10 22:02:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/ultimate_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-04-10 22:12:36 +0000"
     },
     "done": true
   },
@@ -15145,6 +15241,12 @@
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2025-04-10 18:34:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-04-10 22:10:59 +0000"
     },
     "done": true
   },
@@ -15190,9 +15292,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/industrial_electrolyzer": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-04-10 22:12:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_shingle_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-04-10 19:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-10 22:10:59 +0000"
     },
     "done": true
   },
@@ -15319,6 +15433,12 @@
   "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-04-10 19:12:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/willow_bark": {
+    "criteria": {
+      "has_willow_log": "2025-04-10 22:08:47 +0000"
     },
     "done": true
   },
@@ -15622,6 +15742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-10 22:10:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-04-10 18:34:21 +0000"
@@ -15649,6 +15775,12 @@
   "minecells:unlock/run_in_the_promenade": {
     "criteria": {
       "run": "2025-04-10 19:44:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_blast_furnace": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-04-10 22:12:36 +0000"
     },
     "done": true
   },
@@ -15748,6 +15880,12 @@
     },
     "done": true
   },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_willow": "2025-04-10 22:08:47 +0000"
+    },
+    "done": false
+  },
   "twigs:recipes/calcite/calcite_wall": {
     "criteria": {
       "has_item": "2025-04-10 19:12:45 +0000"
@@ -15775,6 +15913,12 @@
   "stoneworks:recipes/building_blocks/stone_tile_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-10 18:34:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/industrial_machine_frame": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-04-10 22:12:36 +0000"
     },
     "done": true
   },
@@ -15856,6 +16000,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/willow_log": {
+    "criteria": {
+      "has_willow_bark": "2025-04-10 22:08:47 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
     "criteria": {
       "has_item": "2025-04-10 19:13:24 +0000"
@@ -15865,6 +16015,12 @@
   "twigs:recipes/calcite/calcite_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-04-10 19:12:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2025-04-10 22:10:59 +0000"
     },
     "done": true
   },
@@ -15913,6 +16069,18 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-04-10 21:18:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/assembling_machine": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-04-10 22:12:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_centrifuge": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-04-10 22:12:36 +0000"
     },
     "done": true
   },
@@ -16009,6 +16177,12 @@
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-04-10 19:19:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-04-10 22:10:59 +0000"
     },
     "done": true
   },
