@@ -14129,15 +14129,21 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/tall_green_bioshroom": {
-    "criteria": {
-      "has_green_bioshroom": "2025-04-10 16:24:14 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/misc/crafting_table/storage_block/red_garnet_storage_block": {
     "criteria": {
       "has_red_garnet_gem": "2025-04-10 16:22:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/red_garnet_dust": {
+    "criteria": {
+      "has_tag_c_red_garnet_gems": "2025-04-10 16:22:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_green_bioshroom": {
+    "criteria": {
+      "has_green_bioshroom": "2025-04-10 16:24:14 +0000"
     },
     "done": true
   },
@@ -14153,9 +14159,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/gold_ingot_from_pickaxe": {
+  "regions_unexplored:recipes/building_blocks/green_bioshroom_block": {
     "criteria": {
-      "has_golden_pickaxe": "2025-04-10 16:24:55 +0000"
+      "has_green_bioshroom": "2025-04-10 16:24:14 +0000"
     },
     "done": true
   },
@@ -14165,15 +14171,27 @@
     },
     "done": false
   },
-  "techreborn:recipes/grinder/red_garnet_dust": {
+  "techreborn:recipes/blast_furnace/gold_ingot_from_pickaxe": {
     "criteria": {
-      "has_tag_c_red_garnet_gems": "2025-04-10 16:22:40 +0000"
+      "has_golden_pickaxe": "2025-04-10 16:24:55 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/green_bioshroom_block": {
+  "things:gleaming_powder": {
     "criteria": {
-      "has_green_bioshroom": "2025-04-10 16:24:14 +0000"
+      "gleaming_powder": "2025-04-10 16:28:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_cyan": {
+    "criteria": {
+      "has_item": "2025-04-10 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cyan_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-04-10 16:34:01 +0000"
     },
     "done": true
   },
