@@ -590,9 +590,13 @@
       "highland_fields": "2025-04-09 00:28:18 +0000",
       "maple_forest": "2025-04-09 00:33:45 +0000",
       "boreal_forest": "2025-04-09 00:31:27 +0000",
+      "towering_cliffs": "2025-04-10 16:21:00 +0000",
+      "cold_boreal_taiga": "2025-04-10 16:26:31 +0000",
       "cold_river": "2025-04-09 00:39:12 +0000",
       "gravel_beach": "2025-04-09 17:53:35 +0000",
       "golden_boreal_taiga": "2025-04-09 14:08:37 +0000",
+      "icy_heights": "2025-04-10 16:23:27 +0000",
+      "bioshroom_caves": "2025-04-10 16:24:15 +0000",
       "lupine_plains": "2025-04-09 00:12:22 +0000"
     },
     "done": false
@@ -609,9 +613,12 @@
       "highland_fields": "2025-04-09 00:28:18 +0000",
       "maple_forest": "2025-04-09 00:33:45 +0000",
       "boreal_forest": "2025-04-09 00:31:27 +0000",
+      "towering_cliffs": "2025-04-10 16:21:00 +0000",
+      "cold_boreal_taiga": "2025-04-10 16:26:31 +0000",
       "cold_river": "2025-04-09 00:39:12 +0000",
       "gravel_beach": "2025-04-09 17:53:35 +0000",
       "golden_boreal_taiga": "2025-04-09 14:08:37 +0000",
+      "icy_heights": "2025-04-10 16:23:27 +0000",
       "lupine_plains": "2025-04-09 00:12:22 +0000"
     },
     "done": false
@@ -2524,6 +2531,8 @@
       "minecraft:cold_ocean": "2025-04-09 17:53:41 +0000",
       "minecraft:forest": "2025-04-09 00:33:25 +0000",
       "minecraft:lush_caves": "2025-04-09 14:11:47 +0000",
+      "minecraft:windswept_forest": "2025-04-10 16:21:06 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-10 16:20:00 +0000",
       "minecraft:flower_forest": "2025-04-09 18:35:22 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-09 18:23:18 +0000",
       "minecraft:meadow": "2025-04-09 00:28:26 +0000",
@@ -14117,6 +14126,54 @@
   "mcda:recipes/unique_armors/opulent_armor_boots": {
     "criteria": {
       "has_emerald_gear_boots": "2025-04-10 02:44:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_green_bioshroom": {
+    "criteria": {
+      "has_green_bioshroom": "2025-04-10 16:24:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/red_garnet_storage_block": {
+    "criteria": {
+      "has_red_garnet_gem": "2025-04-10 16:22:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "green_bioshroom": "2025-04-10 16:24:14 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/misc/lime_dye_from_green_bioshroom": {
+    "criteria": {
+      "has_green_bioshroom": "2025-04-10 16:24:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_pickaxe": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-04-10 16:24:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "bioshroom_caves": "2025-04-10 16:24:15 +0000"
+    },
+    "done": false
+  },
+  "techreborn:recipes/grinder/red_garnet_dust": {
+    "criteria": {
+      "has_tag_c_red_garnet_gems": "2025-04-10 16:22:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/green_bioshroom_block": {
+    "criteria": {
+      "has_green_bioshroom": "2025-04-10 16:24:14 +0000"
     },
     "done": true
   },
