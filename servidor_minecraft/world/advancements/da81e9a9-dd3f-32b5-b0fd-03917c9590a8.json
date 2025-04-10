@@ -583,6 +583,7 @@
       "silver_birch_forest": "2025-04-09 00:39:15 +0000",
       "muddy_river": "2025-04-09 14:33:42 +0000",
       "blackwood_taiga": "2025-04-09 00:09:44 +0000",
+      "rocky_meadow": "2025-04-10 19:07:30 +0000",
       "highland_fields": "2025-04-09 00:28:55 +0000",
       "maple_forest": "2025-04-09 00:33:39 +0000",
       "boreal_forest": "2025-04-09 00:30:40 +0000",
@@ -597,6 +598,7 @@
       "silver_birch_forest": "2025-04-09 00:39:15 +0000",
       "muddy_river": "2025-04-09 14:33:42 +0000",
       "blackwood_taiga": "2025-04-09 00:09:44 +0000",
+      "rocky_meadow": "2025-04-10 19:07:30 +0000",
       "highland_fields": "2025-04-09 00:28:55 +0000",
       "maple_forest": "2025-04-09 00:33:39 +0000",
       "boreal_forest": "2025-04-09 00:30:40 +0000",
@@ -678,7 +680,8 @@
       "minecraft:skeleton": "2025-04-09 00:17:54 +0000",
       "minecraft:spider": "2025-04-09 00:10:31 +0000",
       "minecraft:silverfish": "2025-04-09 00:37:40 +0000",
-      "minecraft:zombie": "2025-04-09 00:18:01 +0000"
+      "minecraft:zombie": "2025-04-09 00:18:01 +0000",
+      "minecraft:zombie_villager": "2025-04-10 19:00:47 +0000"
     },
     "done": false
   },
@@ -10042,9 +10045,153 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/carrot": {
+    "criteria": {
+      "has_carrot": "2025-04-10 19:06:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-04-10 19:08:03 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/orange_dye_from_carrot": {
+    "criteria": {
+      "has_carrot": "2025-04-10 19:06:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-10 19:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-10 19:06:09 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/rope": {
+    "criteria": {
+      "has_wheat": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-10 19:08:03 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-10 19:05:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/golden_carrot": {
+    "criteria": {
+      "has_carrot": "2025-04-10 19:06:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/jungle_cabinet": {
     "criteria": {
       "has_jungle_trapdoor": "2025-04-10 18:58:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/sheaf_pottery_sherd": {
+    "criteria": {
+      "has_wheat": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pretzel": {
+    "criteria": {
+      "has_wheat": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-10 19:06:09 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/gingerbread": {
+    "criteria": {
+      "has_wheat": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beach_hat": {
+    "criteria": {
+      "has_wheat": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2025-04-10 19:06:20 +0000"
     },
     "done": true
   },
