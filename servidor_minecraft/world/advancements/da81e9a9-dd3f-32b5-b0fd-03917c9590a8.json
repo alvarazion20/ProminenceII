@@ -698,7 +698,8 @@
       "mutton": "2025-04-09 14:43:46 +0000",
       "bread": "2025-04-09 00:11:25 +0000",
       "salmon": "2025-04-09 14:30:05 +0000",
-      "cod": "2025-04-09 14:30:18 +0000"
+      "cod": "2025-04-09 14:30:18 +0000",
+      "carrot": "2025-04-10 19:22:27 +0000"
     },
     "done": false
   },
@@ -10051,6 +10052,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/alarm": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-04-10 19:13:25 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-04-10 19:25:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/carrot": {
     "criteria": {
       "has_carrot": "2025-04-10 19:06:09 +0000"
@@ -10060,6 +10073,30 @@
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
+    "criteria": {
+      "has_refined_iron": "2025-04-10 19:13:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron": {
+    "criteria": {
+      "has_refined_iron": "2025-04-10 19:13:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-10 19:25:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-04-10 19:13:25 +0000"
     },
     "done": true
   },
@@ -10075,6 +10112,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/electronic_circuit": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-04-10 19:13:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/orange_dye_from_carrot": {
     "criteria": {
       "has_carrot": "2025-04-10 19:06:09 +0000"
@@ -10084,6 +10127,12 @@
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-04-10 19:06:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
+    "criteria": {
+      "has_refined_iron": "2025-04-10 19:13:25 +0000"
     },
     "done": true
   },
@@ -10099,6 +10148,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_storage_block": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-04-10 19:13:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-04-10 19:08:03 +0000"
@@ -10111,9 +10166,21 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2025-04-10 19:25:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:refinediron": {
+    "criteria": {
+      "crit_0": "2025-04-10 19:13:25 +0000"
     },
     "done": true
   },
@@ -10135,9 +10202,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-04-10 19:13:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/jungle_cabinet": {
     "criteria": {
       "has_jungle_trapdoor": "2025-04-10 18:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-10 19:25:15 +0000"
     },
     "done": true
   },
@@ -10165,6 +10244,24 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-04-10 19:10:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-04-10 19:13:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-04-10 19:10:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-04-10 19:06:20 +0000"
@@ -10177,9 +10274,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/refined_iron_nugget": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-04-10 19:13:25 +0000"
+    },
+    "done": true
+  },
   "beachparty:beach_hat": {
     "criteria": {
       "has_wheat": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_hv_cable": {
+    "criteria": {
+      "has_refined_iron": "2025-04-10 19:13:25 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/dandelion": {
+    "criteria": {
+      "has_flower": "2025-04-10 19:25:15 +0000"
     },
     "done": true
   },
@@ -10189,9 +10304,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/refined_iron_plate": {
+    "criteria": {
+      "has_tag_c_refined_iron_ingots": "2025-04-10 19:13:25 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/straw_hat": {
     "criteria": {
       "has_wheat": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-04-10 19:25:15 +0000"
     },
     "done": true
   },

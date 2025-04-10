@@ -1,0 +1,17 @@
+{
+	id: "dfeb23d0-f455-3404-a746-7468af532056"
+	type: "player"
+	player_name: "jaja24"
+	ranks: {
+		dfeb23d0-f455-3404-a746-7468af532056: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "jaja24"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59A2"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
