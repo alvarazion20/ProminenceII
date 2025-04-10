@@ -674,6 +674,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-10 01:19:29 +0000",
       "minecraft:skeleton": "2025-04-09 00:17:54 +0000",
       "minecraft:spider": "2025-04-09 00:10:31 +0000",
       "minecraft:silverfish": "2025-04-09 00:37:40 +0000",
@@ -9681,6 +9682,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-04-10 01:14:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-10 00:52:59 +0000"
@@ -9804,6 +9811,12 @@
   "soulsweapons:recipes/misc/glass_vial": {
     "criteria": {
       "has_item": "2025-04-10 01:01:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "has_cobblestone_slab": "2025-04-10 01:15:53 +0000"
     },
     "done": true
   },
