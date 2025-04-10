@@ -14267,6 +14267,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_30_leaping_zombies": {
+    "criteria": {
+      "leaping_zombies_killed": "2025-04-10 20:09:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-04-10 19:14:01 +0000"
@@ -14288,6 +14294,12 @@
   "twigs:recipes/calcite/calcite_wall_stonecutting": {
     "criteria": {
       "has_item": "2025-04-10 19:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-10 20:06:36 +0000"
     },
     "done": true
   },
@@ -14528,6 +14540,12 @@
   "stoneworks:recipes/building_blocks/stone_tile_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-10 18:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-04-10 20:09:32 +0000"
     },
     "done": true
   },
@@ -14829,6 +14847,12 @@
   "stoneworks:recipes/building_blocks/calcite_shingle_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-04-10 19:12:45 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:ribboncleaver": {
+    "criteria": {
+      "requirement": "2025-04-10 20:11:27 +0000"
     },
     "done": true
   },
@@ -15180,6 +15204,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-04-10 20:06:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
     "criteria": {
       "has_tag_minecraft_wooden_fences": "2025-04-10 19:07:48 +0000"
@@ -15201,6 +15231,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-04-10 19:19:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-04-10 20:06:36 +0000"
     },
     "done": true
   },
@@ -15396,6 +15432,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/danger_pottery_sherd": {
+    "criteria": {
+      "has_gunpowder": "2025-04-10 20:06:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2025-04-10 19:03:33 +0000"
@@ -15477,6 +15519,12 @@
   "adventurez:recipes/orc_skin_recipe": {
     "criteria": {
       "got_the_orc_skin": "2025-04-10 19:00:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-10 20:06:36 +0000"
     },
     "done": true
   },
