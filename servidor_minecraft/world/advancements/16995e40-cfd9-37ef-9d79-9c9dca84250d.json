@@ -14219,6 +14219,12 @@
     },
     "done": true
   },
+  "simplyswords:hearthflame": {
+    "criteria": {
+      "requirement": "2025-04-10 19:53:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-04-10 19:12:45 +0000"
@@ -14246,6 +14252,12 @@
   "stoneworks:recipes/building_blocks/stone_tile_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-10 18:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-04-10 19:44:22 +0000"
     },
     "done": true
   },
@@ -14330,6 +14342,12 @@
   "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-10 18:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-04-10 19:43:51 +0000"
     },
     "done": true
   },
@@ -14540,6 +14558,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-10 19:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/runner": {
+    "criteria": {
+      "requirement": "2025-04-10 19:47:54 +0000"
     },
     "done": true
   },
@@ -14874,6 +14898,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/protector": {
+    "criteria": {
+      "requirement": "2025-04-10 19:47:51 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_plates_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-04-10 19:12:45 +0000"
@@ -14883,6 +14913,12 @@
   "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-04-10 19:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-10 19:44:30 +0000"
     },
     "done": true
   },
@@ -14907,6 +14943,12 @@
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-04-10 19:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/mutated_bat": {
+    "criteria": {
+      "requirement": "2025-04-10 19:53:57 +0000"
     },
     "done": true
   },
@@ -15042,6 +15084,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_bow": {
+    "criteria": {
+      "has_bow": "2025-04-10 19:44:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/magma_block_with_water": {
     "criteria": {
       "has_magma_block": "2025-04-10 19:11:57 +0000"
@@ -15108,6 +15156,12 @@
     },
     "done": true
   },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-04-10 19:44:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_tile_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-04-10 19:12:45 +0000"
@@ -15159,6 +15213,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-04-10 19:19:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
+    "criteria": {
+      "has_bow": "2025-04-10 19:44:30 +0000"
     },
     "done": true
   },

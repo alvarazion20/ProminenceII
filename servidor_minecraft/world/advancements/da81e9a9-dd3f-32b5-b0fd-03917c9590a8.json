@@ -10046,6 +10046,12 @@
     },
     "done": true
   },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-04-10 19:44:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-04-10 19:34:22 +0000"
@@ -10073,6 +10079,12 @@
   "mcdw:recipes/bows/bow_pink_scoundrel": {
     "criteria": {
       "has_gunpowder": "2025-04-10 19:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-04-10 19:44:08 +0000"
     },
     "done": true
   },
@@ -10124,9 +10136,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-04-10 19:45:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/wire_mill/hv_cable": {
     "criteria": {
       "has_refined_iron_ingot": "2025-04-10 19:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/runner": {
+    "criteria": {
+      "requirement": "2025-04-10 19:46:47 +0000"
     },
     "done": true
   },
@@ -10169,6 +10193,12 @@
   "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
     "criteria": {
       "has_refined_iron": "2025-04-10 19:13:25 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-04-10 19:41:42 +0000"
     },
     "done": true
   },
@@ -10220,6 +10250,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/protector": {
+    "criteria": {
+      "requirement": "2025-04-10 19:52:10 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_from_pebble": {
     "criteria": {
       "has_item": "2025-04-10 19:25:28 +0000"
@@ -10229,6 +10265,12 @@
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-04-10 19:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/mutated_bat": {
+    "criteria": {
+      "requirement": "2025-04-10 19:49:19 +0000"
     },
     "done": true
   },
@@ -10280,6 +10322,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-04-10 19:48:55 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/pretzel": {
     "criteria": {
       "has_wheat": "2025-04-10 19:06:20 +0000"
@@ -10301,6 +10349,12 @@
   "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
     "criteria": {
       "has_tag_minecraft_wooden_fences": "2025-04-10 19:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-04-10 19:44:27 +0000"
     },
     "done": true
   },
