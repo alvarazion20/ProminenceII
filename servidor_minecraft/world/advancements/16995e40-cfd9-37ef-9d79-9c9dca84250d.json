@@ -14208,9 +14208,12 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:gravel_desert": "2025-04-10 21:30:40 +0000",
+      "betternether:poor_nether_grasslands": "2025-04-10 22:04:02 +0000",
+      "betternether:nether_grasslands": "2025-04-10 22:03:43 +0000",
       "betternether:old_fungiwoods": "2025-04-10 21:26:34 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-04-10 21:22:18 +0000",
-      "betternether:nether_mushroom_forest": "2025-04-10 21:22:21 +0000"
+      "betternether:nether_mushroom_forest": "2025-04-10 21:22:21 +0000",
+      "betternether:nether_swampland_terraces": "2025-04-10 22:01:55 +0000"
     },
     "done": false
   },
@@ -14271,6 +14274,12 @@
   "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-04-10 19:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-10 22:02:27 +0000"
     },
     "done": true
   },
@@ -14700,6 +14709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-10 22:02:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-04-10 20:09:32 +0000"
@@ -14727,6 +14742,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-04-10 19:13:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-10 22:02:27 +0000"
     },
     "done": true
   },
@@ -14902,6 +14923,12 @@
   "stoneworks:recipes/building_blocks/stone_plates_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-10 18:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-10 22:02:27 +0000"
     },
     "done": true
   },
@@ -15103,6 +15130,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-10 22:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-10 22:02:27 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2025-04-10 18:34:21 +0000"
@@ -15283,6 +15322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-10 22:02:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-04-10 19:44:30 +0000"
@@ -15292,6 +15337,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-04-10 19:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-10 22:02:27 +0000"
     },
     "done": true
   },
@@ -16075,6 +16126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-10 22:02:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-10 18:34:21 +0000"
@@ -16126,6 +16183,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-04-10 21:16:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-04-10 22:04:19 +0000"
     },
     "done": true
   },
