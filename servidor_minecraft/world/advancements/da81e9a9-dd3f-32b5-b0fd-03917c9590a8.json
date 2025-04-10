@@ -9111,6 +9111,12 @@
     },
     "done": true
   },
+  "vinery:recipes/stackable_log": {
+    "criteria": {
+      "has_oak_log": "2025-04-10 00:35:57 +0000"
+    },
+    "done": true
+  },
   "botania:main/root": {
     "criteria": {
       "flower": "2025-04-10 00:17:30 +0000"
@@ -9120,6 +9126,12 @@
   "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
       "has_standard": "2025-04-10 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-10 00:43:06 +0000"
     },
     "done": true
   },
@@ -9171,15 +9183,33 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-10 00:43:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-10 00:17:30 +0000"
     },
     "done": true
   },
+  "betternether:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-10 00:43:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-10 00:17:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-04-10 00:43:06 +0000"
     },
     "done": true
   },
@@ -9192,6 +9222,12 @@
   "mcdw:recipes/hammers/hammer_gravity": {
     "criteria": {
       "has_anvil": "2025-04-10 00:22:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-04-10 00:43:06 +0000"
     },
     "done": true
   },
@@ -9213,9 +9249,21 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-10 00:43:06 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/crystal_ball": {
     "criteria": {
       "has_item": "2025-04-10 00:22:11 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-04-10 00:35:57 +0000"
     },
     "done": true
   },
@@ -9231,6 +9279,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-10 00:43:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/peridot_sword": {
     "criteria": {
       "has_peridot_gem": "2025-04-10 00:31:18 +0000"
@@ -9240,6 +9294,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-04-10 00:21:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-10 00:43:06 +0000"
     },
     "done": true
   },
@@ -9264,6 +9324,12 @@
   "mcdw:recipes/swords/sword_the_starless_night": {
     "criteria": {
       "has_amethyst_shard": "2025-04-10 00:22:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/stick_from_twig": {
+    "criteria": {
+      "has_item": "2025-04-10 00:36:27 +0000"
     },
     "done": true
   },
@@ -9303,6 +9369,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-10 00:43:06 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2025-04-10 00:17:30 +0000"
@@ -9312,6 +9384,18 @@
   "techreborn:recipes/misc/crafting_table/tool/peridot_hoe": {
     "criteria": {
       "has_peridot_gem": "2025-04-10 00:31:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-10 00:43:06 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-10 00:43:06 +0000"
     },
     "done": true
   },
@@ -9381,6 +9465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-10 00:35:57 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/orange_sapling": {
     "criteria": {
       "has_orange": "2025-04-10 00:24:33 +0000"
@@ -9447,9 +9537,21 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-10 00:43:06 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_kiln": {
     "criteria": {
       "has_copper_block": "2025-04-10 00:22:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-10 00:43:06 +0000"
     },
     "done": true
   },
@@ -9468,6 +9570,12 @@
   "techreborn:recipes/misc/smelting/tin_ingot_from_c_raw_tin_ores": {
     "criteria": {
       "has_tag_c_raw_tin_ores": "2025-04-10 00:27:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2025-04-10 00:35:57 +0000"
     },
     "done": true
   },
@@ -9543,11 +9651,35 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-10 00:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 00:35:57 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:all_weapons": {
     "criteria": {
       "featherlight": "2025-04-10 00:13:06 +0000"
     },
     "done": false
+  },
+  "techreborn:recipes/blast_furnace/plenty_pottery_sherd": {
+    "criteria": {
+      "has_chest": "2025-04-10 00:43:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-04-10 00:43:06 +0000"
+    },
+    "done": true
   },
   "croptopia:recipes/misc/orange_juice": {
     "criteria": {
