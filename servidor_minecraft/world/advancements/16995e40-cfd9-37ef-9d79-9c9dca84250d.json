@@ -12482,11 +12482,23 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-04-10 01:38:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-10 00:30:21 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-04-10 01:37:05 +0000"
+    },
+    "done": false
   },
   "stoneworks:recipes/building_blocks/diorite_tile_stairs_from_diorite_stonecutting": {
     "criteria": {
@@ -12590,15 +12602,39 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-10 01:36:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-04-10 01:38:32 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-04-10 01:09:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-10 01:36:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-10 01:06:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_leggings": {
+    "criteria": {
+      "has_peridot_gem": "2025-04-10 01:33:48 +0000"
     },
     "done": true
   },
@@ -12620,6 +12656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-10 01:36:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-10 00:30:21 +0000"
@@ -12629,6 +12671,12 @@
   "stoneworks:recipes/building_blocks/diorite_pillar_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-10 00:30:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_spade": {
+    "criteria": {
+      "has_peridot_gem": "2025-04-10 01:33:48 +0000"
     },
     "done": true
   },
@@ -12662,6 +12710,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/peridot_storage_block": {
+    "criteria": {
+      "has_peridot_gem": "2025-04-10 01:33:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_pavers_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-10 00:30:21 +0000"
@@ -12671,6 +12725,12 @@
   "stoneworks:recipes/building_blocks/diorite_plate_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-10 00:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-10 01:38:38 +0000"
     },
     "done": true
   },
@@ -12710,6 +12770,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-10 01:36:56 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_glass": {
     "criteria": {
       "has_glass": "2025-04-10 01:06:12 +0000"
@@ -12725,6 +12791,12 @@
   "stoneworks:recipes/building_blocks/diorite_plate_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-10 00:30:21 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_trap": {
+    "criteria": {
+      "has_flint": "2025-04-10 01:38:38 +0000"
     },
     "done": true
   },
@@ -12782,6 +12854,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_sword": {
+    "criteria": {
+      "has_peridot_gem": "2025-04-10 01:33:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-04-10 01:06:12 +0000"
@@ -12791,6 +12869,12 @@
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-10 00:30:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-10 01:36:56 +0000"
     },
     "done": true
   },
@@ -12830,9 +12914,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_boots": {
+    "criteria": {
+      "has_peridot_gem": "2025-04-10 01:33:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_helmet": {
+    "criteria": {
+      "has_peridot_gem": "2025-04-10 01:33:48 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/jar": {
     "criteria": {
       "has_glass": "2025-04-10 01:06:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_chestplate": {
+    "criteria": {
+      "has_peridot_gem": "2025-04-10 01:33:48 +0000"
     },
     "done": true
   },
@@ -12848,9 +12950,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/paper": {
+    "criteria": {
+      "has_the_recipe": "2025-04-10 01:36:56 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-04-10 01:09:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_hoe": {
+    "criteria": {
+      "has_peridot_gem": "2025-04-10 01:33:48 +0000"
     },
     "done": true
   },
@@ -12866,9 +12980,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_pickaxe": {
+    "criteria": {
+      "has_peridot_gem": "2025-04-10 01:33:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-10 00:30:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-10 01:36:56 +0000"
     },
     "done": true
   },
@@ -12899,6 +13025,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-10 01:06:12 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2025-04-10 01:38:32 +0000"
     },
     "done": true
   },
@@ -12944,6 +13076,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/peridot_dust": {
+    "criteria": {
+      "has_tag_c_peridot_gems": "2025-04-10 01:33:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-04-10 01:09:33 +0000"
@@ -12965,6 +13103,18 @@
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-10 00:30:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_axe": {
+    "criteria": {
+      "has_peridot_gem": "2025-04-10 01:33:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-10 01:36:56 +0000"
     },
     "done": true
   },
@@ -13163,6 +13313,12 @@
   "stoneworks:recipes/building_blocks/diorite_brick_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-10 00:30:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/gravel": {
+    "criteria": {
+      "has_flint": "2025-04-10 01:38:38 +0000"
     },
     "done": true
   },
