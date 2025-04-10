@@ -4580,7 +4580,8 @@
       "mutton": "2025-04-09 00:16:30 +0000",
       "bread": "2025-04-09 00:24:55 +0000",
       "salmon": "2025-04-09 00:34:54 +0000",
-      "mushroom_stew": "2025-04-09 14:50:02 +0000"
+      "mushroom_stew": "2025-04-09 14:50:02 +0000",
+      "cooked_salmon": "2025-04-10 19:32:40 +0000"
     },
     "done": false
   },
@@ -14314,6 +14315,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/undead_archer": {
+    "criteria": {
+      "requirement": "2025-04-10 19:34:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-04-10 19:12:31 +0000"
@@ -14323,6 +14330,12 @@
   "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-10 18:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_a_leaping_zombie": {
+    "criteria": {
+      "leaping_zombie_killed": "2025-04-10 19:34:42 +0000"
     },
     "done": true
   },
@@ -14443,6 +14456,12 @@
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2025-04-10 19:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecells:prison": {
+    "criteria": {
+      "requirement": "2025-04-10 19:34:04 +0000"
     },
     "done": true
   },
@@ -14669,6 +14688,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/grenadier": {
+    "criteria": {
+      "requirement": "2025-04-10 19:35:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-04-10 19:12:45 +0000"
@@ -14708,6 +14733,12 @@
   "handcrafted:recipes/misc/stone_pillar_trim": {
     "criteria": {
       "has_stone_pillar_trim": "2025-04-10 18:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2025-04-10 19:36:21 +0000"
     },
     "done": true
   },
@@ -15296,6 +15327,12 @@
   "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-04-10 19:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/leaping_zombie": {
+    "criteria": {
+      "requirement": "2025-04-10 19:34:42 +0000"
     },
     "done": true
   },
