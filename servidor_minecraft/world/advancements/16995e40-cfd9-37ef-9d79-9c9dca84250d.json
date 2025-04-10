@@ -14279,6 +14279,12 @@
     },
     "done": true
   },
+  "minecells:vine_rune": {
+    "criteria": {
+      "vine_rune": "2025-04-10 20:39:55 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/calcite/calcite_slab": {
     "criteria": {
       "has_item": "2025-04-10 19:12:45 +0000"
@@ -14474,6 +14480,12 @@
   "stoneworks:recipes/building_blocks/stone_plate_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-10 18:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecells:elite": {
+    "criteria": {
+      "obelisk_activated": "2025-04-10 20:37:04 +0000"
     },
     "done": true
   },
@@ -15423,6 +15435,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-04-10 18:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecells:ramparts": {
+    "criteria": {
+      "requirement": "2025-04-10 20:43:20 +0000"
     },
     "done": true
   },
