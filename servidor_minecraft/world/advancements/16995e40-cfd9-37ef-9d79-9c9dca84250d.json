@@ -13112,6 +13112,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/opulent_armor_helmet": {
+    "criteria": {
+      "has_emerald_gear_helmet": "2025-04-10 02:43:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/display_board": {
     "criteria": {
       "has_item": "2025-04-10 01:51:34 +0000"
@@ -13652,6 +13658,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/opulent_armor_leggings": {
+    "criteria": {
+      "has_emerald_gear_leggings": "2025-04-10 02:44:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-10 00:30:21 +0000"
@@ -13889,6 +13901,12 @@
   "croptopia:recipes/fried_chicken": {
     "criteria": {
       "has_chicken": "2025-04-10 02:23:37 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/opulent_armor_boots": {
+    "criteria": {
+      "has_emerald_gear_boots": "2025-04-10 02:44:13 +0000"
     },
     "done": true
   },
