@@ -2834,3 +2834,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	... 29 more
 [00:26:51] [Server thread/INFO]: Villager class_1646['Emery'/21, l='ServerLevel[world]', x=82.08, y=64.00, z=24.09] died, message: 'Emery hit the ground too hard'
 [00:26:51] [Server thread/INFO]: Named entity class_1646['Emery'/21, l='ServerLevel[world]', x=82.08, y=64.00, z=24.09] died: Emery hit the ground too hard
+[00:59:21] [Server thread/INFO]: <qwilzy17> zzzzzzzz
