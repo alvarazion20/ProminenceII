@@ -13064,6 +13064,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/cooked_meat": {
+    "criteria": {
+      "has_cooked_meat": "2025-04-10 02:23:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-10 00:30:21 +0000"
@@ -13079,6 +13085,12 @@
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-04-10 01:51:34 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/grilled_searing_cod": {
+    "criteria": {
+      "has_searing_cod": "2025-04-10 02:23:35 +0000"
     },
     "done": true
   },
@@ -13133,6 +13145,12 @@
   "create:recipes/misc/crafting/kinetics/cart_assembler": {
     "criteria": {
       "has_item": "2025-04-10 01:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-10 02:23:37 +0000"
     },
     "done": true
   },
@@ -13304,6 +13322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-10 02:23:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/prismaglass": {
     "criteria": {
       "has_glass": "2025-04-10 01:06:12 +0000"
@@ -13355,6 +13379,12 @@
   "create:recipes/misc/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2025-04-10 01:54:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-10 02:23:37 +0000"
     },
     "done": true
   },
@@ -13412,6 +13442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-10 02:23:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_drill": {
     "criteria": {
       "has_item": "2025-04-10 01:54:02 +0000"
@@ -13421,6 +13457,12 @@
   "twigs:recipes/cobblestone_from_pebble": {
     "criteria": {
       "has_item": "2025-04-10 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/misc/coal": {
+    "criteria": {
+      "has_searing_cod": "2025-04-10 02:23:35 +0000"
     },
     "done": true
   },
@@ -13802,6 +13844,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2025-04-10 02:23:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2025-04-10 01:51:34 +0000"
@@ -13829,6 +13877,12 @@
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-04-10 01:09:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-10 02:23:37 +0000"
     },
     "done": true
   },
@@ -13946,6 +14000,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_chicken": "2025-04-10 02:23:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/windmill_bearing": {
     "criteria": {
       "has_item": "2025-04-10 01:51:34 +0000"
@@ -14003,6 +14063,12 @@
   "create:recipes/misc/crafting/kinetics/cogwheel": {
     "criteria": {
       "has_item": "2025-04-10 01:51:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2025-04-10 02:23:37 +0000"
     },
     "done": true
   },
