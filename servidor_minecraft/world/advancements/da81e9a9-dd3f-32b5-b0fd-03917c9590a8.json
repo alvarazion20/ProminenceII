@@ -9111,6 +9111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-10 00:52:59 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/stackable_log": {
     "criteria": {
       "has_oak_log": "2025-04-10 00:35:57 +0000"
@@ -9132,6 +9138,18 @@
   "betternether:recipes/transportation/nether_mushroom_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-04-10 00:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-10 00:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-10 00:52:59 +0000"
     },
     "done": true
   },
@@ -9195,6 +9213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-10 00:52:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/crimson_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-04-10 00:43:06 +0000"
@@ -9204,6 +9228,18 @@
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-10 00:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-10 00:52:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sand": {
+    "criteria": {
+      "has_sand": "2025-04-10 00:52:59 +0000"
     },
     "done": true
   },
@@ -9243,6 +9279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-10 00:52:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/wall_red_brown": {
     "criteria": {
       "has_red_mushroom": "2025-04-10 00:17:30 +0000"
@@ -9261,6 +9303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-10 00:52:59 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
     "criteria": {
       "has_log": "2025-04-10 00:35:57 +0000"
@@ -9270,6 +9318,12 @@
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2025-04-10 00:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-10 00:52:59 +0000"
     },
     "done": true
   },
@@ -9417,6 +9471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-10 00:52:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-04-10 00:22:11 +0000"
@@ -9459,6 +9519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-10 00:52:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/end_stone_smelter": {
     "criteria": {
       "has_tag_c_furnaces": "2025-04-10 00:22:12 +0000"
@@ -9471,9 +9537,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-10 00:52:59 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/orange_sapling": {
     "criteria": {
       "has_orange": "2025-04-10 00:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-10 00:52:59 +0000"
     },
     "done": true
   },
@@ -9525,6 +9603,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-10 00:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-10 00:52:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-04-10 00:22:11 +0000"
@@ -9555,9 +9645,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-10 00:52:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/iron_furnace_alt": {
     "criteria": {
       "has_furnace": "2025-04-10 00:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-10 00:52:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2025-04-10 00:52:59 +0000"
     },
     "done": true
   },
@@ -9651,6 +9759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-10 00:52:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/wart_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-04-10 00:43:06 +0000"
@@ -9660,6 +9774,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-04-10 00:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-04-10 00:52:59 +0000"
     },
     "done": true
   },
@@ -9678,6 +9798,12 @@
   "travelersbackpack:recipes/misc/standard": {
     "criteria": {
       "has_chest": "2025-04-10 00:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-10 00:52:59 +0000"
     },
     "done": true
   },
