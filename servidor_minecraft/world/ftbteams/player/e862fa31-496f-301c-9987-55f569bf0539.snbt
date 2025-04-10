@@ -1,0 +1,17 @@
+{
+	id: "e862fa31-496f-301c-9987-55f569bf0539"
+	type: "player"
+	player_name: "sILVAZN"
+	ranks: {
+		e862fa31-496f-301c-9987-55f569bf0539: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "sILVAZN"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFAF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
