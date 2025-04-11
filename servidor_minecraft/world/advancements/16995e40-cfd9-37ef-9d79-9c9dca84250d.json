@@ -16450,6 +16450,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/cinnabar_small_dust_from_dust": {
+    "criteria": {
+      "has_cinnabar_dust": "2025-04-11 20:39:43 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/voodoo_poppet": {
     "criteria": {
       "has_item": "2025-04-11 20:21:06 +0000"
@@ -16804,9 +16810,21 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2025-04-11 20:34:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-11 20:18:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/cinnabar_dust": {
+    "criteria": {
+      "has_cinnabar_dust": "2025-04-11 20:39:43 +0000"
     },
     "done": true
   },
